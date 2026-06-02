@@ -10,7 +10,7 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     tailwindcss(),
   ],
-  base: "/react-redux-task2-1/",
+  base: "/react-class-comp-and-tailwind/",
   server: {
     open: true,
   },

@@ -1,1 +1,1 @@
-https://aleriv1.github.io/result-react-redux-task2-1/
+https://aleriv1.github.io/react-class-comp-and-tailwind/
