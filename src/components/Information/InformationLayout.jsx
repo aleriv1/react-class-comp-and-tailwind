@@ -12,6 +12,6 @@ export class InfromationLayout extends Component {
       message = `Ходит: ${currentPlayer}-к`;
     }
 
-    return <h1 className="mb-2.5">{message}</h1>;
+    return <h1 className="mb-2.5 text-orange-400">{message}</h1>;
   }
 }
